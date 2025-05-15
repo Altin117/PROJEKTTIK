@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="sq">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jeta dhe Shëndeti</title>
+<style>
+        body {
+            font-family: 'Comic Sans MS', cursive, sans-serif;
+            background-color: #AFE1AF;
+        }
+        header {
+            background-color: #AFE1AF;
+            color: white;
+            padding: 20px;
+            font-size: 28px;
+        }
+        img {
+            width: 500px;
+            height: 300px;
+            text-align: center;
+        }
+        footer {
+            background-color: #AFE1AF;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <h2>Menu</h2>
+    <ul>
+        <li><a href="2.html" target="contentFrame">Si të jetojm shëndetshëm</a></li>
+        <li><a href="1.html" target="contentFrame">Llojet e shëndetit</a></li>
+        <li><a href="new 4.html" target="contentFrame">Grupimet e Ushqimeve</a></li>
+        <li><a href="new 5.html" target="contentFrame">Dieta</a></li>
+    </ul>
+</body>
+</html>

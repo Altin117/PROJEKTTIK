@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Jeta dhe shëndeti</title>
+</head>
+<frameset cols="20%, 80%">
+    <frame src="altin.html" name="menuFrame">
+    <frame src="2.html" name="contentFrame">
+</frameset>
+</html>

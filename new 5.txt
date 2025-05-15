@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="sq">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dieta 7 Ditore</title>
+    <style>
+         body {
+            font-family: 'Comic Sans MS', cursive, sans-serif;
+            background-color: #AFE1AF;
+			 margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+        header {
+            background-color: #AFE1AF;
+            color: white;
+            padding: 20px;
+            font-size: 28px;
+            text-align: center;
+        }
+        footer {
+            background-color: #AFE1AF;
+            color: white;
+        }
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: white;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+            text-align: left;
+        }
+        h2 {
+            color: #333;
+        }
+        h3 {
+            color: #FF5733;
+        }
+        p {
+            font-size: 16px;
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        Dieta 7 Ditore
+    </header>
+    <div class="container">
+        <h2>Plani i Ushqimit për 7 Ditë</h2>
+        
+        <h3>Dita 1</h3>
+        <p><b>Mëngjesi:</b> Kafe nero (pa sheqer) - 2 kalori për filxhan</p>
+        <p><b>Dreka:</b> 2 vezë të ziera (140 kalori) / Sallatë spinaqi (1 tas, 35 kalori)</p>
+        <p><b>Darka:</b> Biftek i madh (200g, 500 kalori) / Sallatë jeshile (1 tas, 20 kalori)</p>
+        
+        <h3>Dita 2</h3>
+        <p><b>Mëngjesi:</b> Kafe me pak qumësht (1 lugë gjelle, 7 kalori) / Panine e thekur (80 kalori)</p>
+        <p><b>Dreka:</b> Biftek (150g, 375 kalori) / Sallatë jeshile (1 tas, 20 kalori) / Fruta sipas dëshirës (p.sh., 1 mollë, 95 kalori)</p>
+        <p><b>Darka:</b> Proshutë koto (100g, 150 kalori)</p>
+        
+        <h3>Dita 3</h3>
+        <p><b>Mëngjesi:</b> Kafe me pak qumësht (7 kalori) / Panine (80 kalori)</p>
+        <p><b>Dreka:</b> 2 vezë të ziera (140 kalori) / Sallatë jeshile (20 kalori) / Domate (1 mesatare, 22 kalori)</p>
+        <p><b>Darka:</b> Proshutë koto (100g, 150 kalori) / Sallatë jeshile (20 kalori)</p>
+        
+        <h3>Dita 4</h3>
+        <p><b>Mëngjesi:</b> Kafe (pa sheqer, 2 kalori) / Panine (80 kalori)</p>
+        <p><b>Dreka:</b> 1 vezë e zier (70 kalori) / Sallatë karrotash të gjalla (50 kalori) / Djathë magro (50g, 60 kalori)</p>
+        <p><b>Darka:</b> Gote kos natyral (150g, 100 kalori)</p>
+        
+        <h3>Dita 5</h3>
+        <p><b>Mëngjesi:</b> Karrota me limon (25 kalori) / Kafe me qumësht (7 kalori)</p>
+        <p><b>Dreka:</b> Peshk zgare (150g, 300 kalori) / Domate (22 kalori)</p>
+        <p><b>Darka:</b> Biftek (150g, 375 kalori) / Sallatë jeshile (20 kalori)</p>
+        
+        <h3>Dita 6</h3>
+        <p><b>Mëngjesi:</b> Kafe (pa sheqer, 2 kalori) / Panine (80 kalori)</p>
+        <p><b>Dreka:</b> ½ pule (350g, 700 kalori) / Sallatë jeshile (20 kalori)</p>
+        <p><b>Darka:</b> 2 vezë të ziera (140 kalori) / Karrota (25 kalori)</p>
+        
+        <h3>Dita 7</h3>
+        <p><b>Mëngjesi:</b> Çaj me limon (pa sheqer, 2 kalori)</p>
+        <p><b>Dreka:</b> Biftek (150g, 375 kalori) / Fruta (p.sh., 1 mollë, 95 kalori)</p>
+        <p><b>Darka:</b> Biftek (150g, 375 kalori) / Sallatë jeshile (20 kalori)</p>
+    </div>
+</body>
+</html>
